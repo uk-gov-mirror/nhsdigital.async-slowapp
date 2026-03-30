@@ -27,7 +27,7 @@ requests = "^2.32.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
-coverage = "^7.13.4"
+coverage = "^7.13.5"
 flake8 = "^7.2.0"
 black = "^26.3.1"
 pip-licenses = "^5.5.5"
